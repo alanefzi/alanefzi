@@ -9,7 +9,6 @@
 <p>Passionate software developer with experience in building mobile applications, web platforms, and business management systems. I specialize in Flutter, Laravel, API integrations, and cloud deployment. I enjoy transforming ideas into scalable, user-friendly digital products and helping businesses grow through technology.</p>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=ALA-NEFZI&style=flat&color=orange&label=PROFILE+VIEWS)
-NEFZI&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![Email badge](https://img.shields.io/badge/Email-alaa.neefzi%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:alaa.neefzi@gmail.com)
 </div>
 
